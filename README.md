@@ -1,1 +1,1 @@
-# CS_-_Lab
+# CS1-Lab
